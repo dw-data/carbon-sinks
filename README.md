@@ -66,7 +66,7 @@ _Caveats: The exact amount of absorbed carbon dioxid by soil type are disputed. 
 
 ### Oceans, the slow giant sink
 
-Um die enorme Bedeutung des Ozeans für das globale Klima zu verstehen, soll die nachstehende Grafik dienen, die die weltweiten natürlichen Speicher von CO2 darstellt. Während Böden, Vegetation und andere verhältnismäßig wenig Masse an Kohlenstoff auf sich vereinen, lagert der Ozean 80 Prozent des gesamten Aufkommens ein. Der größte Teil davon sinkt in unorganischer Form dissoziierter Ionen langsam in immer tiefere Wasserschichten. Da der Ozean etwa 1000 Jahre benötigt, um sein Wasser einmal komplett zu durchmischen, befindet sich aller jemals vom Menschen in die Atmosphäre entlassene und nun im Ozean gelöste Kohlenstoff noch in den obersten 1000 Metern. Die Daten für Anteile der natürlichen Senken entstammen dem [GCP Report 2020](https://essd.copernicus.org/articles/12/3269/2020/). 
+To understand the enormous importance of the ocean for the global climate, consider the graph below, which shows the world's natural stores of CO2. While soils, vegetation and others account for relatively little mass of carbon, the ocean stores 80 per cent of the total. Most of it sinks slowly into deeper and deeper layers of water in the inorganic form of dissociated ions. Since the ocean needs about 1000 years to completely mix its water once, all carbon ever released by humans into the atmosphere and now dissolved in the ocean is still in the top 1000 metres. The data for proportions of natural sinks are taken from the [GCP Report 2020](https://essd.copernicus.org/articles/12/3269/2020/). 
 
 ![](graphics/301_de_sink-storage.png)
 
