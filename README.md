@@ -33,7 +33,7 @@ The following text will explain the process behind this story: Which data source
 
 The first chart is an illustration made by Peter Steinmetz, designer at DW, based on numbers of the [Global Carbon Budget](https://essd.copernicus.org/articles/12/3269/2020/) in 2020. It visualizes the four most important influential factors for global carbon circulation. Others, such as absorbation through cement industry or emissions by marine biota have been omitted due to their comparativ little impact. 
 
-![](graphics/298_de_sinks_circulation.png)
+![](graphics/297_de_sinks_circulation.png)
 
 _Caveats: As mentioned above, some sources of emissions and natural sinks have been ignored, such as rivers, coasts and permafrost, for two reasons: Either their influence on the global carbon circle is very low or their net balance is zero._
 
