@@ -7,7 +7,7 @@ _Illustration:_ Peter Steinmetz
 _Writing:_  [Michel Penke](https://michelpenke.de)
 
 **Read the full articles on DW.com:**
-- [XXX](https://www.dw.com/en/xxx)
+- [Carbon sinks: How nature helps fight climate change](https://www.dw.com/en/carbon-sinks-how-nature-helps-fight-climate-change/a-59835700)
 
 Climate change continues to accelerate. But natural carbon sinks like plants, soils and oceans curb negative consequences. They absorb surprisingly high amounts of green house gas and help to cool down the atmosphere. Furthermore, we could optimise them and make them more effective in the fight against the climate crisis.
 
